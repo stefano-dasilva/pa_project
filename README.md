@@ -46,5 +46,8 @@ La soluzione proposta nel codice sorgente è stata sottoposta a valutazione tram
 - `IDE` : Clion
 - `Altri Strumenti` : Valgrind -> callgrind per misurare il tempo di esecuzione delle funzioni , memcheck per controllare i memory Leaks
 
+
+Il file [main.c](main.c) contiene il  codice sorgente che è stato immesso nel verificatore
+
 ---
 
