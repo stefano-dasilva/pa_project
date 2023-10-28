@@ -2,7 +2,7 @@
 
 ## Descrizione
 
-Il progetto "CercaPercorso" si concentra su un'autostrada composta da stazioni di servizio, ciascuna con un'identificazione basata sulla sua distanza dall'inizio dell'autostrada e dotata di veicoli elettrici con autonomie specifiche. L'obiettivo principale è identificare il percorso più breve tra due stazioni, con la necessità di cambiare veicolo ad ogni tappa.
+Il progetto "CercaPercorso" si concentra su un'autostrada composta da stazioni di servizio, ciascuna con un'identificazione basata sulla sua distanza dall'inizio dell'autostrada e dotata di veicolicon autonomie specifiche. L'obiettivo principale è identificare il percorso più breve tra due stazioni, con la necessità di cambiare veicolo ad ogni tappa.
 
 ## Comandi e Risposte
 
@@ -31,7 +31,13 @@ Questo progetto è stato realizzato come parte del corso di Algoritmi e Principi
 
 ## Valutazione
 
-Il codice sorgente viene immesso in un verificatore online. Riceverà in ingresso un input di grandi dimensioni e dovrà oltre che essere corretto a livello di output soddisfare delle specifiche di tempo e di memoria
+La soluzione proposta nel codice sorgente è stata sottoposta a valutazione tramite un verificatore online. La valutazione tiene conto di criteri specifici:
+
+ - Correttezza ed Efficienza: La soluzione deve essere corretta e soddisfare specifiche prestazioni di tempo e memoria. Sono state eseguite batterie di test automatizzate per valutare la soluzione.
+
+ - Tempo Macchina e Memoria: Il sistema di verifica calcola il tempo macchina e la memoria utilizzati dalla soluzione.
+
+ - Batterie di Test: La valutazione è avvenuta attraverso 6 batterie di test, ognuna associata a una valutazione tra {18, 21, 24, 27, 30, 30 e lode}. Per ottenere una valutazione X, è necessario superare tutte le batterie con valutazione associata <= X.
 
 
 ## Strumenti Utilizzati
