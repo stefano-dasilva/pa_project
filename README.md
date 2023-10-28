@@ -28,5 +28,17 @@ Il progetto supporta i seguenti comandi:
 
 Questo progetto è stato realizzato come parte del corso di Algoritmi e Principi dell'Informatica ed è progettato per illustrare i concetti di algoritmi di percorso e decisionali.
 
+
+## Valutazione
+
+Il codice sorgente viene immesso in un verificatore online. Riceverà in ingresso un input di grandi dimensioni e dovrà oltre che essere corretto a livello di output soddisfare delle specifiche di tempo e di memoria
+
+
+## Strumenti Utilizzati
+
+- `Linguaggio` : C
+- `IDE` : Clion
+- `Altri Strumenti` : Valgrind -> callgrind per misurare il tempo di esecuzione delle funzioni , memcheck per controllare i memory Leaks
+
 ---
 
